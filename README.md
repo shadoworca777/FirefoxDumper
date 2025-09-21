@@ -1,0 +1,2 @@
+# FirefoxDumper
+Firefoxに保存されているパスワードやクッキーを抽出します。
